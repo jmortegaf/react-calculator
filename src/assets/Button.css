@@ -1,0 +1,12 @@
+.btn{
+    width: 94px;
+    aspect-ratio: 16/9;
+    margin: 3px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3c4043;
+    color: #e8eaed;
+}
+.control-btn{
+    background-color: #5f6368;
+}
